@@ -1,3 +1,7 @@
 .env.local
 node_modules
 .next
+.cache
+*.tsbuildinfo
+dist
+.env
